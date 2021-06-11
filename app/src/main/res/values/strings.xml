@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EmployeeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="save_employee">Save</string>
+    <string name="delete_employee">Delete</string>
+    <string name="name">Name</string>
+    <string name="manager">Manager</string>
+    <string name="age_42">Age</string>
+    <string name="age">Age : %1$s</string>
+    <string name="role">Role</string>
+    <string name="image">Image</string>
+    <string name="designation">Role : %1$s</string>
+    <string name="gender_">Gender : %1$s</string>
+    <string name="permission_msg">We need your permission to take a photo. When asked please give the permission</string>
+    <string name="error">Error occurred while creating file : %1$s</string>
+    <string name="name_emp">Name : %1$s</string>
+    <string name="import_data">Import Data</string>
+    <string name="export_data">Export Data</string>
+    <string name="phone_1_s">Phone : %1$s</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="capture">Capture</string>
+    <string name="upload">Upload</string>
+    <string name="no_app">No app to read CSV FIle</string>
+    <string name="success_msg">File Exported SuccessFully</string>
+    <string name="share">Share</string>
+    <string name="share_text">Employee Data\nName: %1$s\nRole: %2$s\nAge: %3$d\nGender: %4$s</string>
+    <string name="share_data_title">Choose the app to send data</string>
+</resources>
